@@ -1,0 +1,20 @@
+{
+  "name": "unit_test_javascript",
+  "version": "1.0.0",
+  "description": "unit test with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "huu nhat",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7"
+  }
+}
